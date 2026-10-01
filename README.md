@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shafiq_aja" target="blank"><img src="https://img.shields.io/twitter/follow/shafiq_aja?logo=twitter&style=for-the-badge" alt="shafiq_aja" /></a></p>
 
-- 🔭 Saat ini saya sedang mengerjakan **JKT48**
+- 🔭 Saat ini saya bekerja pada **JKT48**
 
 - ⚡ Fakta menarik **tidak ada**
 
