@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya shofakshafek</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
+<h3 align="center">seorang pemula backend asal Indonesia!<l/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shofakshafek&label=Profile%20views&color=0e75b6&style=flat" alt="shofakshafek" /> </p>
 
